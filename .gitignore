@@ -1,5 +1,6 @@
 # Python virtual environment
 venv/
+venv_3.12/
 env/
 ENV/
 
